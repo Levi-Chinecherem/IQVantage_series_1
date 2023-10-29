@@ -4,7 +4,11 @@
 
 The Crypto Trading Insights System is a Python-based tool that performs data analysis on cryptocurrency price data and generates insights to help traders make informed decisions. It uses historical price data to identify trends, patterns, and other valuable information to guide trading strategies.
 
-![System Overview](system_overview.png)
+![System Overview](https://github.com/Levi-Chinecherem/IQVantage_series_1/blob/main/insights/imgs/price_trends.png)
+
+![System Overview](https://github.com/Levi-Chinecherem/IQVantage_series_1/blob/main/insights/imgs/price_volatility.png)
+
+![System Overview](https://github.com/Levi-Chinecherem/IQVantage_series_1/blob/main/insights/imgs/price_change_distribution.png)
 
 ## Features
 
